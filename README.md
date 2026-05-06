@@ -1,2 +1,3 @@
 # Camera_image_video_gallery
-fro raspberry pi
+for raspberry pi
+fully devaloped by python tkinter
